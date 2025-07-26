@@ -1,5 +1,5 @@
 # mango_whatsapp_link_generator
-Created with CodeSandbox# whatsapp_Github_Link_Generator
+Created with CodeSandbox# whatsapp_Link_Generator
 ## About the project
 This a micro web app called wa.me Link Generator that helps users instantly generate a WhatsApp chat link by entering a phone number.
 
