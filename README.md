@@ -17,7 +17,7 @@ This a micro web app called wa.me Link Generator that helps users instantly gene
 2.Copy the link generated and paste in the browser.
 <img width="182" height="58" alt="{28A6BCDB-C4F6-4393-95CA-61ACADFB45F0}" src="https://github.com/user-attachments/assets/17ae6d66-2f26-48c7-ba77-b264c5c37d19" />
 
-3. Your Whatsapp profile opens up .
+3.Your Whatsapp profile opens up .
 <img width="480" height="320" alt="{ADB7D6D6-24E5-4B79-86A9-210E3DFE8A68}" src="https://github.com/user-attachments/assets/de70360d-2428-4da0-b764-c779b32548b9" />
 
 Get started with my project and generate your own Whatsapp links!
